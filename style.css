@@ -1,0 +1,42 @@
+body{
+	background : black;
+}
+
+hr{
+	border-color : gold;
+}
+
+h1{
+	color: gold;
+}
+
+p{
+    color: white;
+}
+
+a{
+	color: goldenrod;
+}
+		
+img{
+	display: block;
+  	margin-left: auto;
+    margin-right: auto;
+  	border-radius: 10px;
+}
+
+button{
+	display: block;
+  	margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+  	border-radius: 20px;
+  	background: gold;
+}
+
+button:hover{
+	rotate: 10deg;
+	rotate: 0.35turn;
+	rotate: 1.27rad;
+	rotate: -10grad;
+}
